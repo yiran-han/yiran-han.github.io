@@ -6,16 +6,16 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve -l -H localhost`. If you change this file, please restart the 
 # server process.
-theme: jekyll-theme-minimal
-# Basic Site Settings
+
+# Basic Site Settings 
 locale                   : "en-US"
-title                    : "Yiran Han / HomePage"
+title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Yiran Han"
+name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://yiranhan.github.io 
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "hamhammimi/yiranhan.github.io"
+repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
