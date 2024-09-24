@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Yiran Han/Personal Homepage"
 title_separator          : "-"
 name                     : &name "Yiran Han"
-description              : &description "personal description"
+description              : &description "PhD in Economics, University at Albany SUNY"
 url                      : https://yiranhan.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hamhammimi/yiranhan.github.io"
