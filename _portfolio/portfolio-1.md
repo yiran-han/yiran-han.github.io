@@ -1,5 +1,5 @@
 ---
-title: ""Drug Diffusion through Clinical Trial Sites: Evidence from Physician Prescribing of New Cancer Drugs" (Job Market Paper) with
+title: "Drug Diffusion through Clinical Trial Sites: Evidence from Physician Prescribing of New Cancer Drugs (Job Market Paper) with
 Pinka Chatterji and Chun-Yu Ho."
 excerpt: ""
 collection: portfolio
