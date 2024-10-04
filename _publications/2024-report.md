@@ -1,7 +1,7 @@
 ---
 title: "2023 Illinois Cannabis Regulation and Tax Act annual evaluation. "
 collection: publications
-category: Reports
+category: reports
 permalink: /publication/2024-report
 excerpt: 'The Illinois Cannabis Regulation and Tax Act requires the submission of an annual report with the goal of comprehensively covering all aspects of the public health issues related to recreational cannabis legalization. This document serves as the 2023 annual report. The focus centers upon changes over time since the last report, as well as providing meaningful comparisons between Illinois, other Midwest states, and the US.'
 date: 2023-08
