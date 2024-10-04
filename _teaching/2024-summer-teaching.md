@@ -1,10 +1,10 @@
 ---
 title: "Instructor, University at Albany, SUNY"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+type: "Intermediate Macroeconomics"
+permalink: /teaching/2024-summer-teaching
 venue: "University at Albany, SUNY, Department of Economics"
-date: 2022-08-01
+date: 2024-07-01 
 location: "Albany, NY"
 ---
 
