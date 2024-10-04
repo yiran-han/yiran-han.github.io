@@ -80,7 +80,7 @@ publication_category:
     title: 'Journal Articles' 
   books:
     title: 'Books'
-  Reports:
+  reports:
     title: 'Reports'
 
 # Site Settings
