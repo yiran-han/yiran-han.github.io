@@ -25,9 +25,7 @@
   .page__inner-wrap {
     @include full();
 
-    .page__content {
-        text-align: justify;
-    },
+    .page__content,
     .page__meta,
     .page__share {
       @include full();
