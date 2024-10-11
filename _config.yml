@@ -83,6 +83,16 @@ publication_category:
   conferences:
     title: 'Reports'
 
+# resaerch Category - The following the list of publication categories and their headings
+portfolio_category:
+  jmp:
+    title: 'Job Market Paper'
+  under review:
+    title: 'Under Review'    
+  working paper:
+    title: 'Working Papers'
+    
+
 # Site Settings
 text-align               : justify
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
