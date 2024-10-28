@@ -1,5 +1,5 @@
 ---
-title: "Age-based health insurance coverage policies and mental health."
+title: "Age-based health insurance coverage policies and mental health  (with Baris K. Yörük)."
 collection: publications
 category: manuscripts
 # permalink: /publication/2024-paper
