@@ -7,7 +7,7 @@ excerpt: ''
 date: 2024-10-01
 venue: 'Chicago, IL: Illinois Department of Human Services,
 Division of Substance Use Prevention and Recovery.'
-paperurl: 'https://www.researchgate.net/publication/372569710_2023_Annual_Cannabis_Report_Cannabis_Regulation_and_Tax_Act_Evaluation'
+paperurl: 'https://www.researchgate.net/publication/385074554_2024_Illinois_Cannabis_Regulation_and_Tax_Act_annual_evaluation'
 citation: 'Swartz, James & Franceschini, Dana & Scamperle, Kamryn & Han, Yiran. (2024). 2024 Annual Cannabis Report: Cannabis Regulation and Tax Act Evaluation. DOI: 10.13140/RG.2.2.34702.78401. '
 ---
 
