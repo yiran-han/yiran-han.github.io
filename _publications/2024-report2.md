@@ -1,10 +1,10 @@
 ---
-title: "2022 Illinois Cannabis Regulation and Tax Act annual evaluation. "
+title: "2024 Illinois Cannabis Regulation and Tax Act annual evaluation. "
 collection: publications
 category: conferences
 permalink: /publication/2024-report2
 excerpt: ''
-date: 2023-08-01
+date: 2024-10-01
 venue: 'Chicago, IL: Illinois Department of Human Services,
 Division of Substance Use Prevention and Recovery.'
 paperurl: 'https://www.researchgate.net/publication/372569710_2023_Annual_Cannabis_Report_Cannabis_Regulation_and_Tax_Act_Evaluation'
