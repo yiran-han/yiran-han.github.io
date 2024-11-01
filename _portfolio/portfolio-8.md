@@ -7,6 +7,9 @@ category: working paper
 excerpt: 'with Pinka Chatterji, Kajal Lahiri, Jinman Pang, Cheng Yang and Yimeng Yin.
 
 <br><br> NBER RDRC Working Paper 22-02.'
+
+paperurl: 'https://www-nber-org.libproxy.albany.edu/brd/20233/inter-state-variation-disability-applications-during-pandemic'
+
 venue: ''
 ---
 
