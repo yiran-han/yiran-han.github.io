@@ -1,8 +1,8 @@
 ---
-
-title: "Did the Paycheck Protection Program affect disability applications during the COVID-19 pandemic?” 
+title: "Decomposing Income Related Disability Inequality: the Role of Job Demands"
 collection: portfolio 
-category: under review
-excerpt: 'with Pinka Chatterji, Kajal Lahiri, Jinman Pang, Cheng Yang and Yimeng Yin (Grant NO. RDR18000003).'
+category: working paper
+excerpt: 'with Pinka Chatterji and Chun-Yu Ho.'
 venue: ''
 ---
+
