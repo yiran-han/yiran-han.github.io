@@ -1,9 +1,9 @@
 ---
-title: "How Effective were COVID-19-related State Policies in US to Mitigate Alcohol Sales? (with Baris K Yörük (R&R))"
+title: "Mapping Disparities in Access to Lecanemab in Georgia (with Niying Li, Samruddhi Nandkumar Bo-
+rate, Kai Zhang, Mohammed Zuber, Darshan Chudasama, Stephen Correia, and Lisa Renzi-Hammond)."
 collection: portfolio 
 category: under review
 excerpt: ''
 venue: ''
 ---
 
-Abstract: 
