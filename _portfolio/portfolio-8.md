@@ -1,5 +1,5 @@
 ---
-title: "Explaining Inter-State Variation in Disability Applications During the COVID-19 Pandemic" 
+title: "Inter-State Variation in Disability Applications During the COVID-19 Pandemic" 
 
 
 collection: portfolio 
